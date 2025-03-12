@@ -1,0 +1,17 @@
+{
+  "name": "healthcare-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build:css": "npx tailwindcss -i ./src/main/resources/static/css/styles.css -o ./src/main/resources/static/css/output.css",
+    "start": "npm run build:css && react-scripts start"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "postcss-cli": "^11.0.0"
+  }
+}

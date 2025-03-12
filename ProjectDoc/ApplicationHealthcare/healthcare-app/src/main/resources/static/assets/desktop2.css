@@ -1,0 +1,467 @@
+.desktop2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop2-desktop2 {
+  gap: 47px;
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(33, 158, 166, 1);
+}
+.desktop2-image66d68c0b22af428ba4d004c38b686c131 {
+  top: 0px;
+  left: 1px;
+  width: 162px;
+  height: 162px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 190.5px;
+}
+.desktop2-rectangle1 {
+  top: 91px;
+  left: 215px;
+  width: 994px;
+  height: 278px;
+  position: absolute;
+  border-radius: 40px;
+}
+.desktop2-rectangle2button,
+.desktop2-rectangle4button,
+.desktop2-rectangle5button,
+.desktop2-rectangle2button1,
+.desktop2-arrowbutton {
+  width: 398px;
+  height: 125px;
+  position: absolute;
+  border-radius: 30px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: white;
+  font-size: 32px;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  text-align: center;
+}
+.desktop2-rectangle2button {
+  top: 449px;
+  left: 223px;
+}
+.desktop2-rectangle4button {
+  top: 674px;
+  left: 223px;
+}
+.desktop2-rectangle5button {
+  top: 674px;
+  left: 819px;
+}
+.desktop2-rectangle2button1 {
+  top: 449px;
+  left: 819px;
+}
+.desktop2-arrowbutton {
+  top: 0px;
+  left: 1440px;
+  width: 97px;
+  height: 97px;
+}
+.desktop2-arrowbutton-icon {
+  width: 100%;
+  height: 100%;
+}
+
+.desktop2-frameiconhealthcare,
+.desktop2-frameiconchatlines,
+.desktop2-frameicongamepad,
+.desktop2-frameiconyoga {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop2-frameiconhealthcare {
+  top: 468px;
+  left: 248px;
+  width: 97.0199966430664px;
+  height: 77.61600494384766px;
+}
+.desktop2-vector {
+  top: 24.255001068115234px;
+  left: 77.6159896850586px;
+  width: 19px;
+  height: 53px;
+  position: absolute;
+}
+.desktop2-vector01 {
+  top: 48.187347412109375px;
+  left: 60.63750076293945px;
+  width: 22px;
+  height: 29px;
+  position: absolute;
+}
+.desktop2-vector02 {
+  top: 24.255001068115234px;
+  left: -5.6843418860808015e-14px;
+  width: 19px;
+  height: 53px;
+  position: absolute;
+}
+.desktop2-vector03 {
+  top: 48.187347412109375px;
+  left: 14.553003311157227px;
+  width: 22px;
+  height: 29px;
+  position: absolute;
+}
+.desktop2-vector04 {
+  top: 0px;
+  left: 29.106006622314453px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.desktop2-frameiconchatlines {
+  top: 686px;
+  left: 248px;
+  width: 97.02127075195312px;
+  height: 97.02127075195312px;
+}
+.desktop2-vector05 {
+  top: 38.808509826660156px;
+  left: 29.106382369995117px;
+  width: 39px;
+  height: 1px;
+  position: absolute;
+}
+.desktop2-vector06 {
+  top: 58.212764739990234px;
+  left: 29.106382369995117px;
+  width: 19px;
+  height: 1px;
+  position: absolute;
+}
+.desktop2-vector07 {
+  top: 0px;
+  left: 0px;
+  width: 97px;
+  height: 97px;
+  position: absolute;
+}
+.desktop2-frameicongamepad {
+  top: 702px;
+  left: 844px;
+  width: 97.0199966430664px;
+  height: 66.44832611083984px;
+}
+.desktop2-vector08 {
+  top: 0px;
+  left: 0px;
+  width: 97px;
+  height: 66px;
+  position: absolute;
+}
+.desktop2-vector09 {
+  top: 19.715715408325195px;
+  left: 74.48186492919922px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.desktop2-vector10 {
+  top: 13.143811225891113px;
+  left: 67.86614990234375px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.desktop2-vector11 {
+  top: 26.287622451782227px;
+  left: 67.86614990234375px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.desktop2-vector12 {
+  top: 13px;
+  left: 59px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.desktop2-vector13 {
+  top: 13.143811225891113px;
+  left: 26.287891387939453px;
+  width: 0px;
+  height: 13px;
+  position: absolute;
+}
+.desktop2-vector14 {
+  top: 19.715715408325195px;
+  left: 19.715986251831055px;
+  width: 13px;
+  height: 1px;
+  position: absolute;
+}
+.desktop2-vector15 {
+  top: 35.0501708984375px;
+  left: 21.906618118286133px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.desktop2-vector16 {
+  top: 35.0501708984375px;
+  left: 56.9567756652832px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.desktop2-frameiconyoga {
+  top: 463px;
+  left: 844px;
+  width: 97.02127075195312px;
+  height: 97.02127075195312px;
+}
+.desktop2-vector17 {
+  top: 64.70024871826172px;
+  left: 41.773048400878906px;
+  width: 46px;
+  height: 32px;
+  position: absolute;
+}
+.desktop2-vector18 {
+  top: 64.70024871826172px;
+  left: 9.240523338317871px;
+  width: 47px;
+  height: 32px;
+  position: absolute;
+}
+.desktop2-vector19 {
+  top: 32.34043502807617px;
+  left: 0px;
+  width: 97px;
+  height: 37px;
+  position: absolute;
+}
+.desktop2-vector20 {
+  top: 0px;
+  left: 37.73049545288086px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.desktop2-text,
+.desktop2-text02,
+.desktop2-text04,
+.desktop2-text20 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-text06 {
+  top: 942px;
+  left: 764px;
+  color: rgba(33, 158, 166, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-text08 {
+  top: 867px;
+  left: 444px;
+  color: rgba(33, 158, 166, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-text10 {
+  top: 910px;
+  left: 431px;
+  color: rgba(33, 158, 166, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-text14 {
+  top: 867px;
+  left: 764px;
+  color: rgba(33, 158, 166, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-image66d68c0b22af428ba4d004c38b686c132 {
+  top: 864px;
+  left: 189px;
+  width: 159px;
+  height: 146px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 190.5px;
+}
+.desktop2-text16 {
+  top: 910px;
+  left: 764px;
+  color: rgba(33, 158, 166, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-text18 {
+  top: 17px;
+  left: 198px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-unsplash-itph-h2l-gzu-i {
+  top: 122px;
+  left: 237px;
+  width: 429px;
+  height: 215px;
+  position: absolute;
+  border-radius: 30px;
+}
+.desktop2-unsplash-itph-h2l-gzu-i1 {
+  top: 122px;
+  left: 748px;
+  width: 429px;
+  height: 215px;
+  position: absolute;
+  border-radius: 30px;
+}
+.desktop2-rectangle6 {
+  top: 846px;
+  left: 0px;
+  width: 1454px;
+  height: 181px;
+  position: absolute;
+}
+.desktop2-text-wrapper {
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+  display: inline-block;
+}
+.desktop2-button {
+  width: 398px;
+  height: 125px;
+  border-radius: 30px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  position: relative;
+}
+
+.desktop2-text-wrapper {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 50%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.desktop2-text,
+.desktop2-text02,
+.desktop2-text04,
+.desktop2-text20 {
+  color: rgba(33, 158, 166, 1);
+  font-size: 28px;
+  font-family: Lohit Devanagari;
+  font-weight: 500;
+  text-align: center;
+  line-height: normal;
+  margin: 0;
+  z-index: 1;
+}
+
+.desktop2-frameiconhealthcare,
+.desktop2-frameiconchatlines,
+.desktop2-frameicongamepad,
+.desktop2-frameiconyoga {
+  position: absolute;
+  top: 15px;
+  left: 20%;
+  transform: translateX(-50%);
+  z-index: 2;
+}
+
+
+

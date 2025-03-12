@@ -1,0 +1,396 @@
+.desktop5-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop5-desktop5 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(33, 158, 166, 1);
+}
+.desktop5-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 178px;
+  height: 1024px;
+  position: absolute;
+}
+.desktop5-rectangle2 {
+  top: -1px;
+  left: 178px;
+  width: 466px;
+  height: 1024px;
+  position: absolute;
+}
+.desktop5-rectangle3 {
+  top: 56px;
+  left: 679px;
+  width: 268px;
+  height: 51px;
+  position: absolute;
+  border-radius: 20px;
+}
+.desktop5-text {
+  top: 81px;
+  left: 322px;
+  color: rgba(72, 72, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop5-text02 {
+  top: 260px;
+  left: 322px;
+  color: rgba(72, 72, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop5-text04 {
+  top: 440px;
+  left: 322px;
+  color: rgba(72, 72, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop5-text06 {
+  top: 612px;
+  left: 322px;
+  color: rgba(72, 72, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop5-text08 {
+  top: 784px;
+  left: 322px;
+  color: rgba(72, 72, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop5-text10 {
+  top: 956px;
+  left: 309px;
+  color: rgba(72, 72, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop5-rectangle5 {
+  top: 199px;
+  left: 679px;
+  width: 319px;
+  height: 91px;
+  position: absolute;
+  border-radius: 20px;
+}
+.desktop5-rectangle6 {
+  top: 123px;
+  left: 1129px;
+  width: 268px;
+  height: 51px;
+  position: absolute;
+  border-radius: 20px;
+}
+.desktop5-rectangle7 {
+  top: 303px;
+  left: 1139px;
+  width: 279px;
+  height: 100px;
+  position: absolute;
+  border-radius: 20px;
+}
+.desktop5-rectangle8 {
+  top: 486px;
+  left: 679px;
+  width: 292px;
+  height: 51px;
+  position: absolute;
+  border-radius: 20px;
+}
+.desktop5-rectangle9 {
+  top: 576px;
+  left: 1150px;
+  width: 268px;
+  height: 51px;
+  position: absolute;
+  border-radius: 20px;
+}
+.desktop5-line1 {
+  top: 870px;
+  left: 641px;
+  width: 799px;
+  height: 1px;
+  position: absolute;
+}
+.desktop5-text12 {
+  top: 926px;
+  left: 669px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop5-arrowbutton {
+  top: -0.2231532782316208px;
+  left: 1439.793701171875px;
+  width: 97px;
+  height: 97px;
+  position: absolute;
+}
+.desktop5-frameiconusercirclealtbutton {
+  top: 30px;
+  left: 38px;
+  width: 97.02127075195312px;
+  height: 97.02127075195312px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop5-vector {
+  top: 48.51065444946289px;
+  left: 24.25531768798828px;
+  width: 49px;
+  height: 29px;
+  position: absolute;
+}
+.desktop5-vector01 {
+  top: 19.404254913330078px;
+  left: 33.95744705200195px;
+  width: 29px;
+  height: 29px;
+  position: absolute;
+}
+.desktop5-vector02 {
+  top: 0px;
+  left: 0px;
+  width: 97px;
+  height: 97px;
+  position: absolute;
+}
+.desktop5-frameiconchatlinesbutton {
+  top: 224px;
+  left: 56px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop5-vector03 {
+  top: 24.00001335144043px;
+  left: 18px;
+  width: 24px;
+  height: 1px;
+  position: absolute;
+}
+.desktop5-vector04 {
+  top: 36.0000114440918px;
+  left: 18px;
+  width: 12px;
+  height: 1px;
+  position: absolute;
+}
+.desktop5-vector05 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+.desktop5-frameiconphonebutton {
+  top: 408px;
+  left: 59px;
+  width: 60px;
+  height: 59.549659729003906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop5-vector06 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+.desktop5-frameiconuserbutton {
+  top: 557px;
+  left: 57px;
+  width: 60px;
+  height: 79.57144165039062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop5-vector07 {
+  top: 45.28572463989258px;
+  left: 0px;
+  width: 60px;
+  height: 34px;
+  position: absolute;
+}
+.desktop5-vector08 {
+  top: 0px;
+  left: 13px;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
+.desktop5-frameiconbellbutton {
+  top: 746px;
+  left: 57px;
+  width: 60px;
+  height: 66.65499877929688px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop5-vector09 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 53px;
+  position: absolute;
+}
+.desktop5-vector10 {
+  top: 63.33335494995117px;
+  left: 24.233327865600586px;
+  width: 12px;
+  height: 3px;
+  position: absolute;
+}
+.desktop5-settingbutton {
+  top: 921px;
+  left: 56px;
+  width: 62px;
+  height: 50px;
+  position: absolute;
+}
+.desktop5-unsplash-v2edka-id-mp4button {
+  top: 39px;
+  left: 208px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border-radius: 60px;
+}
+.desktop5-unsplash827x-uh-v-sp8-mbutton {
+  top: 208px;
+  left: 208px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border-radius: 60px;
+}
+.desktop5-rectangle4 {
+  top: 174px;
+  left: 178px;
+  width: 15px;
+  height: 154px;
+  position: absolute;
+}
+.desktop5-unsplash-jn0s-uc-t-oig0button {
+  top: 388px;
+  left: 208px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border-radius: 60px;
+}
+.desktop5-unsplashmj-rwhvq-ec0-ubutton {
+  top: 562px;
+  left: 208px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border-radius: 60px;
+}
+.desktop5-unsplashr-deo-vt-e7v-osbutton {
+  top: 736px;
+  left: 208px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border-radius: 60px;
+}
+.desktop5-unsplash-if9tk5-uy-k-ibutton {
+  top: 910px;
+  left: 196px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border-radius: 60px;
+}
+.desktop5-unsplash-kc-kl5da19li {
+  top: 675px;
+  left: 675px;
+  width: 339px;
+  height: 169px;
+  position: absolute;
+  border-radius: 20px;
+}

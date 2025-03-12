@@ -1,0 +1,220 @@
+.desktop7-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop7-desktop7 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(33, 158, 166, 1);
+}
+.desktop7-rectangle27 {
+  top: 156px;
+  left: 412px;
+  width: 615px;
+  height: 713px;
+  position: absolute;
+}
+.desktop7-rectangle26 {
+  top: 385px;
+  left: 471px;
+  width: 497px;
+  height: 69px;
+  position: absolute;
+  border-radius: 40px;
+}
+.desktop7-rectangle19 {
+  top: 512px;
+  left: 471px;
+  width: 497px;
+  height: 69px;
+  position: absolute;
+  border-radius: 40px;
+}
+.desktop7-rectangle24 {
+  top: 640px;
+  left: 471px;
+  width: 497px;
+  height: 69px;
+  position: absolute;
+  border-radius: 40px;
+}
+.desktop7-text {
+  top: 399px;
+  left: 512px;
+  color: rgba(217, 217, 217, 1);
+  width: 133px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop7-text02 {
+  top: 524px;
+  left: 512px;
+  color: rgba(217, 217, 217, 1);
+  width: 133px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop7-text04 {
+  top: 651px;
+  left: 512px;
+  color: rgba(217, 217, 217, 1);
+  width: 133px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop7-rectangle28 {
+  top: 761px;
+  left: 606px;
+  width: 227px;
+  height: 64px;
+  position: absolute;
+  border-radius: 60px;
+}
+.desktop7-text06 {
+  top: 770px;
+  left: 672px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop7-text08 {
+  top: 239px;
+  left: 515px;
+  color: rgba(1, 99, 120, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Serif Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop7-user {
+  top: 397px;
+  left: 493px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.desktop7-mail {
+  top: 526px;
+  left: 493px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.desktop7-password {
+  top: 655px;
+  left: 493px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.desktop7-arrow {
+  top: -2058px;
+  left: 2646px;
+  width: 29px;
+  height: 29px;
+  position: absolute;
+}
+.desktop7-input-wrapper {
+  position: absolute;
+  width: 497px;
+  height: 69px;
+  border-radius: 40px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+.desktop7-input {
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  font-family: inherit;
+  border-radius: 40px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.desktop7-input-wrapper { 
+  top: 390px;
+  left: 751px;
+  width: 407px;
+  height: 49px;
+  position: absolute;
+  border-radius: 40px;
+  z-index: 0;
+  transform: translateX(-50%);
+  
+}
+
+.desktop7-input-wrapper1{ 
+  top: 518px;
+  left: 751px;
+  width: 407px;
+  height: 49px;
+  position: absolute;
+  border-radius: 45px;
+  z-index: 0;
+  transform: translateX(-50%);
+}
+
+.desktop7-input-wrapper2{ 
+  top: 645px;
+  left: 751px;
+  width: 407px;
+  height: 49px;
+  position: absolute;
+  border-radius: 40px;
+  z-index: 0;
+  transform: translateX(-50%);
+}

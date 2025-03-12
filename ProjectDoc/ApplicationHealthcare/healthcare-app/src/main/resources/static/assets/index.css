@@ -1,0 +1,184 @@
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #229FA7;
+}
+.desktop1-desktop1 {
+  gap: -66px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 10px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+  background-color: rgba(33, 158, 166, 1);
+}
+.desktop1-image3000beyaz2 {
+  top: 0px;
+  left: 869px;
+  width: 571px;
+  height: 1024px;
+  position: absolute;
+}
+.desktop1-text {
+  top: 299px;
+  left: 74px;
+  color: rgba(255, 255, 255, 1);
+  width: 776px;
+  height: auto;
+  z-index: 1;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-logo {
+  top: 106px;
+  left: 288px;
+  width: 198px;
+  height: 198px;
+  z-index: 4;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 190.5px;
+}
+.desktop1-emailinput {
+  top: 436px;
+  left: 124px;
+  width: 571px;
+  height: 57px;
+  display: flex;
+  z-index: 5;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop1-emailinput-field {
+  width: 100%;
+  height: 100%;
+  border: none;
+  padding: 10px;
+  font-size: 20px;
+  color: rgba(33, 158, 166, 1);
+}
+.desktop1-passwordinput {
+  top: 573px;
+  left: 124px;
+  width: 571px;
+  height: 57px;
+  display: flex;
+  z-index: 6;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop1-passwordinput-field {
+  width: 100%;
+  height: 100%;
+  border: none;
+  padding: 10px;
+  font-size: 20px;
+  color: rgba(33, 158, 166, 1);
+}
+.desktop1-text06 {
+  top: 285px;
+  left: 993px;
+  color: rgba(33, 158, 166, 1);
+  width: 362px;
+  height: auto;
+  z-index: 7;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text08 {
+  top: 424px;
+  left: 930px;
+  color: rgba(33, 158, 166, 1);
+  width: 487px;
+  height: auto;
+  z-index: 8;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle16button {
+  top: 690px;
+  left: 300px;
+  width: 249px;
+  height: 86px;
+  z-index: 9;
+  position: absolute;
+  border-radius: 60px;
+  background: url('public/rectangle16button1093-4af9-200h.png') no-repeat center center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.desktop1-rectangle17button {
+  top: 573px;
+  left: 1049px;
+  width: 249px;
+  height: 86px;
+  z-index: 10;
+  position: absolute;
+  border-radius: 60px;
+  background: url('public/rectangle17button1093-1o4j-200h.png') no-repeat center center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.desktop1-text10 {
+  color: rgba(33, 158, 166, 1);
+  height: auto;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text12 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lohit Devanagari;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
